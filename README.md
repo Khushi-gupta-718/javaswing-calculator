@@ -1,2 +1,2 @@
 # javaswing-calculator
-Ideveloped this project using javaswing
+I developed this project using javaswing
